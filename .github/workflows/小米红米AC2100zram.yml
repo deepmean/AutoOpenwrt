@@ -10,7 +10,7 @@
 # See /LICENSE for more information.
 #
 
-name: 小米红米AC2100
+name: 小米红米AC2100zram
 
 on:
   repository_dispatch:
